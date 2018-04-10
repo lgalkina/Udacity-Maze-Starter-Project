@@ -6,7 +6,8 @@ public class SignPost : MonoBehaviour
 {	
 	public void ResetScene() 
 	{
+        Key.isKeyCollected = false;
         // Reset the scene when the user clicks the sign post
-        SceneManager.LoadScene("A Maze");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
