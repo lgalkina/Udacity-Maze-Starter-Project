@@ -13,9 +13,9 @@ Android
 
 ## To do
 
-Treasure detection
-Coin counter
-Player timer
+- Treasure detection
+- Coin counter
+- Player timer
 
 ## Getting Started
 
